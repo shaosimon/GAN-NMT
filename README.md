@@ -21,5 +21,5 @@ Generative Adversarial Networks in Neural Machine Translation
 
 4: In "GAN_NMT_model", run bash file (file.sh)
 5：我不管我邵珂施最帅的。
-
+6：这个代码我确实是改掉了，但是我不想同步到网站上。
 Note: Remember to check the path
