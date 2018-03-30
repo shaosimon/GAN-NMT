@@ -20,5 +20,6 @@ Generative Adversarial Networks in Neural Machine Translation
 3: In "GAN_NMT_model/model_conf", check config files (file.conf)
 
 4: In "GAN_NMT_model", run bash file (file.sh)
+5：我不管我邵珂施最帅的。
 
 Note: Remember to check the path
